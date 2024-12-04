@@ -34,21 +34,30 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![EMPD EXP 6 2](https://github.com/user-attachments/assets/7148e95b-ebae-4ec1-a4ac-d7ab735e032f)
+![EMPD EXP 6 2 2](https://github.com/user-attachments/assets/206df867-fb16-4aba-8938-35dd897483b0)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+
+![EMPD EXP 6 2 3](https://github.com/user-attachments/assets/7260bb02-3cd7-4163-a3ad-4a2b41f89e43)
+![EMPD EXP 6 2 4](https://github.com/user-attachments/assets/217de575-a3ff-4cb3-8922-c8a7ff356260)
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+
+![EMPD EXP 6 2 5](https://github.com/user-attachments/assets/c0b15cf2-46bb-438e-b32e-7c21077e6b0d)
+![EMPD EXP 6 2 6](https://github.com/user-attachments/assets/1938d832-b135-4d95-b15d-abb348ac3af0)
+
 
 ## Output:
+![Screenshot 2024-12-04 115347](https://github.com/user-attachments/assets/957aae1d-a385-4555-9cd3-1de579c26e33)
+![image](https://github.com/user-attachments/assets/1aa85997-e789-4cfd-9f51-fb14e9e07959)
+![image](https://github.com/user-attachments/assets/38f7456f-da89-403a-9003-c67396f8719d)
 
-### Name:
-### Register Number:
+
+### Name: Kesavan S
+### Register Number: 24003333
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
