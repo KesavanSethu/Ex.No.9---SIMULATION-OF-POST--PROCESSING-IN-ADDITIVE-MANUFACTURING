@@ -34,26 +34,29 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![EMPD EXP 6 2](https://github.com/user-attachments/assets/7148e95b-ebae-4ec1-a4ac-d7ab735e032f)
-![EMPD EXP 6 2 2](https://github.com/user-attachments/assets/206df867-fb16-4aba-8938-35dd897483b0)
+![EMPD EXP 6 2 1](https://github.com/user-attachments/assets/6b385a6c-6efb-4e9a-9f6b-fc014d5f75b6)
+![EMPD EXP 6 2 2](https://github.com/user-attachments/assets/94e85035-dbc0-43cd-b15d-6f345095db58)
+
 
 
 ## UV Curing of 3D printed part
+![EMPD EXP 6 2 3](https://github.com/user-attachments/assets/098e85ec-c6ec-4eee-aa11-af0bda387758)
+![EMPD EXP 6 2 4](https://github.com/user-attachments/assets/f5120ecd-8ce0-4590-aa9c-6c8b2ae2321a)
 
-![EMPD EXP 6 2 3](https://github.com/user-attachments/assets/7260bb02-3cd7-4163-a3ad-4a2b41f89e43)
-![EMPD EXP 6 2 4](https://github.com/user-attachments/assets/217de575-a3ff-4cb3-8922-c8a7ff356260)
-
+ 
 
 ## Heat Treatment of 3D printed part
 
-![EMPD EXP 6 2 5](https://github.com/user-attachments/assets/c0b15cf2-46bb-438e-b32e-7c21077e6b0d)
-![EMPD EXP 6 2 6](https://github.com/user-attachments/assets/1938d832-b135-4d95-b15d-abb348ac3af0)
+![EMPD EXP 6 2 5](https://github.com/user-attachments/assets/2a9d5303-4ff2-4027-a5bf-9b1666a8d649)
+![EMPD EXP 6 2 6](https://github.com/user-attachments/assets/f713e424-1007-40f3-af06-9566d7de9c96)
+
 
 
 ## Output:
-![Screenshot 2024-12-04 115347](https://github.com/user-attachments/assets/957aae1d-a385-4555-9cd3-1de579c26e33)
-![image](https://github.com/user-attachments/assets/1aa85997-e789-4cfd-9f51-fb14e9e07959)
-![image](https://github.com/user-attachments/assets/38f7456f-da89-403a-9003-c67396f8719d)
+![Support Removl](https://github.com/user-attachments/assets/ce946032-4768-4361-b3ca-b491949a65c8)
+![UV Curing](https://github.com/user-attachments/assets/8cea7b39-fe0f-4e24-b86e-475fc82ac871)
+![Heat Treatment](https://github.com/user-attachments/assets/f1c9e69c-4999-4414-835e-376a437d00cb)
+
 
 
 ### Name: Kesavan S
